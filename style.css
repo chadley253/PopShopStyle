@@ -1,0 +1,42 @@
+/*
+Theme Name: X Blog Child
+Theme URI: http://wpthemespace.com/product/x-blog/
+Template: x-blog
+Author: Noor alam
+Author URI: http://wpthemespace.com/
+Description: X Blog is a smart WordPress blog theme. X Blog WordPress theme now supported Gutenberg editor. Now you can built your site using the new Gutenberg editor with X Blog WordPress theme. X Blog is an awsome WordPress blog theme. X Blog WordPress theme support custom header, feature image, unlimited color changing options, custom background, 5 different color theme look,different logo position, footer widget, font Awesome icons. So you can enjoy your bloging with WordPress X Blog theme.
+Tags: Blog,Two-columns,Right-sidebar,custom-header,custom-menu,featured-images,full-width-template,editor-style,microformats,post-formats,sticky-post,flexible-header
+Version: 1.3.14.1620900992
+
+
+*/
+
+
+p {
+	color: black;
+	font-size: 20px;
+}
+
+div.elementor-widget-wrap {
+	background: rgba(150, 200, 200, 0.1)
+}
+
+.header-main{
+	margin:3px;
+	background-color: #65C3FF;
+}
+
+.header-account-title{
+	color:green;
+}
+
+.header-nav {
+	background-color: #efefed;
+	padding-right:10px;
+	padding-left:10px;
+}
+
+.elementor-heading-title {
+	background-color: #fafafa;
+	margin:5px;
+}
